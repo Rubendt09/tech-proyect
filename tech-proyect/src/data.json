@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "OS1",
+      "content": "",
+      "status": "to_do",
+      "index": 0
+    },
+    {
+      "id": 1,
+      "title": "OS2",
+      "content": "",
+      "status": "in_process",
+      "index": 0
+    },
+    {
+      "id": 6,
+      "title": "OS3",
+      "content": "",
+      "status": "done",
+      "index": 0
+    }
+  ]
+}
